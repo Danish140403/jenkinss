@@ -1,0 +1,6 @@
+replicaCount: 1
+
+image:
+  repository: danish1106/app6
+  pullPolicy: Always
+  tag: latest
